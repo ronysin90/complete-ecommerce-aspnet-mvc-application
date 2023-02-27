@@ -1,5 +1,5 @@
 ﻿{
-  "iisSettings": {
+  "iisSettings": {//app is going to run
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
@@ -7,7 +7,7 @@
       "sslPort": 44305
     }
   },
-  "profiles": {
+  "profiles": {//command name
     "eTickets": {
       "commandName": "Project",
       "dotnetRunMessages": true,
